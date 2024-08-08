@@ -93,6 +93,3 @@ This project is licensed under the MIT License.
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## Contact
-
-For any inquiries, please contact [your.email@example.com](mailto:your.email@example.com).
