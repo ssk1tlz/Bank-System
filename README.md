@@ -2,6 +2,18 @@
 
 This project is a web-based banking system application built using [Streamlit](https://streamlit.io/). The application allows users to register, log in, apply for loans, manage their accounts, and perform administrative tasks such as viewing and deleting user accounts.
 
+Registering a new account
+![image](https://github.com/user-attachments/assets/6dbac3e5-9d14-4255-bd10-bd3066ac8e38)
+
+Аuthorization
+![image](https://github.com/user-attachments/assets/b450530c-c7f9-4d4f-bfcd-63cb8078932d)
+
+Searching for an account
+![image](https://github.com/user-attachments/assets/acb4866e-3bf5-4d2f-a395-65e8aef911e1)
+
+Admin panel
+![image](https://github.com/user-attachments/assets/404d89f6-7d64-4fdc-a383-a04dc1a373e7)
+
 ## Features
 
 - **User Registration:** Allows new users to register with a unique username and detailed personal information.
